@@ -7,6 +7,7 @@ namespace PISLAB1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Ima meda.");
         }
     }
 }
