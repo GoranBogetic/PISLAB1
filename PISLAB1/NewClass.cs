@@ -6,6 +6,8 @@ namespace PISLAB1
 {
 	class NewClass
     {
-
+	public void Method
+	{
+	}
     }
 }
