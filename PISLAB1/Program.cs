@@ -8,6 +8,7 @@ namespace PISLAB1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ima meda.");
+            Console.WriteLine("Ivan test");
         }
     }
 }
